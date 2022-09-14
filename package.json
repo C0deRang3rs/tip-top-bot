@@ -1,0 +1,9 @@
+{
+  "name": "tip-top-bot",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "repository": "https://github.com/C0deRang3rs/tip-top-bot",
+  "author": "Vladyslav Berezhnyi <bakuganxd@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
